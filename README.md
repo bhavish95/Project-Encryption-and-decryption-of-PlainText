@@ -6,7 +6,7 @@ Welcome to BhavishEncryptionApp! This simple Tkinter-based application allows us
 
 # Step2- Start the python IDLE and start code for GUI screen 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/5065a35d-7a2d-4cd1-abbd-2daea792c897)
- after doing this code are screen structure is complete and look like this 
+    after doing this code are screen structure is complete and look like this 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/a9c14de1-8ad4-496a-8794-2dc165f41fd9)
 
 # Step3-Now we can make fields
