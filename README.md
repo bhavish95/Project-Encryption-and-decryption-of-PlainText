@@ -6,13 +6,13 @@ Welcome to BhavishEncryptionApp! This simple Tkinter-based application allows us
 
 # Step2- Start the python IDLE and start code for GUI screen 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/5065a35d-7a2d-4cd1-abbd-2daea792c897)
-after doing this code are screen structure is complete and look like this 
+ after doing this code are screen structure is complete and look like this 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/a9c14de1-8ad4-496a-8794-2dc165f41fd9)
 
 # Step3-Now we can make fields
 In this step we create feilds in screen we can create labels and text feild where we can write our plaintext which we want encrypt and decrypt and make buttons which perform these operations .
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/fd92be18-7702-472c-ab0e-58b7437f442e)
-after doing this code in previous code we get the screen like this 
+ after doing this code in previous code we get the screen like this 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/5b155752-1e67-4cb2-9f59-c96e69b5d441)
 
 # Step3- Now we create functions for encrption of the plaintext 
@@ -21,7 +21,7 @@ after defining the method of error now we can perform encyrption on our plaintex
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/c2d86566-8dce-4485-bcdf-bc7734cc993c)
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/0c189cb0-a8ed-409e-b5f6-cdc6f489794a)
 
-# Step4 - Now we create a case to caught if user fill passord wrong
+# Step4 - Now we create a case to caught if user fill password wrong
 In this we create elif which theough output if user fill wrong password it through invalid password 
 ![image](https://github.com/bhavish95/Project-Encryption-and-decryption-of-PlainText/assets/111994995/9aa4c4bf-dd83-42c9-9d5c-21459b674b4d)
 For see this we will wrong password and then see what this through
